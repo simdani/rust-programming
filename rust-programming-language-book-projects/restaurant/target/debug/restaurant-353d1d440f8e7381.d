@@ -1,0 +1,1 @@
+/Users/simonasdaniliauskas/Documents/Projects/rust/rust-programming-language-book-projects/restaurant/target/debug/restaurant-353d1d440f8e7381: /Users/simonasdaniliauskas/Documents/Projects/rust/rust-programming-language-book-projects/restaurant/src/lib.rs
