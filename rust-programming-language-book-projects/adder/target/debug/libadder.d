@@ -1,0 +1,1 @@
+/Users/simonasdaniliauskas/Documents/Projects/rust/rust-programming-language-book-projects/adder/target/debug/libadder.rlib: /Users/simonasdaniliauskas/Documents/Projects/rust/rust-programming-language-book-projects/adder/src/lib.rs
