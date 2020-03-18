@@ -1,0 +1,1 @@
+/Users/simonasdaniliauskas/Documents/Projects/rust/rust-programming-language-book-projects/minigrep/target/debug/minigrep-2eb6f19ab4db57e5: /Users/simonasdaniliauskas/Documents/Projects/rust/rust-programming-language-book-projects/minigrep/src/lib.rs
