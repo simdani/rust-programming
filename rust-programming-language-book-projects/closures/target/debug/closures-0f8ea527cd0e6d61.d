@@ -1,0 +1,1 @@
+/Users/simonasdaniliauskas/Documents/Projects/rust/rust-programming-language-book-projects/closures/target/debug/closures-0f8ea527cd0e6d61: /Users/simonasdaniliauskas/Documents/Projects/rust/rust-programming-language-book-projects/closures/src/main.rs
