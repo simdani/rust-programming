@@ -1,0 +1,1 @@
+/Users/simonasdaniliauskas/Documents/Projects/rust/rust-programming-language-book-projects/web_server/target/debug/web_server: /Users/simonasdaniliauskas/Documents/Projects/rust/rust-programming-language-book-projects/web_server/src/main.rs
